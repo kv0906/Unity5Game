@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: f19c79bca29e1f04babef4fa52187c53
+timeCreated: 1451464054
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hydra_walk_0
+    21300002: hydra_walk_1
+    21300004: hydra_walk_2
+    21300006: hydra_walk_3
+    21300008: hydra_walk_4
+    21300010: hydra_walk_5
+    21300012: hydra_walk_6
+    21300014: hydra_walk_7
+    21300016: hydra_walk_8
+    21300018: hydra_attack_0
+    21300020: hydra_attack_1
+    21300022: hydra_attack_2
+    21300024: hydra_attack_3
+    21300026: hydra_attack_4
+    21300028: hydra_attack_5
+    21300030: hydra_attack_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hydra_walk_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 43.5}
+        - {x: -37.5, y: -5.5}
+        - {x: -37.5, y: -43.5}
+        - {x: 32.5, y: -43.5}
+        - {x: 37.5, y: -36.5}
+        - {x: 37.5, y: 30.5}
+        - {x: 28.5, y: 43.5}
+    - name: hydra_walk_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 217
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 43.5}
+        - {x: -3, y: 43.5}
+        - {x: -16, y: 34.5}
+        - {x: -37, y: -3.5}
+        - {x: -37, y: -43.5}
+        - {x: 35, y: -43.5}
+        - {x: 37, y: -41.5}
+        - {x: 37, y: 31.5}
+        - {x: 35, y: 39.5}
+    - name: hydra_walk_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 217
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 43}
+        - {x: -14.5, y: 43}
+        - {x: -36.5, y: 12}
+        - {x: -36.5, y: -43}
+        - {x: 29.5, y: -43}
+        - {x: 31.5, y: -40}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 40}
+    - name: hydra_walk_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 214
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 45}
+        - {x: -33.5, y: 28}
+        - {x: -33.5, y: -44}
+        - {x: -31.5, y: -45}
+        - {x: 26.5, y: -45}
+        - {x: 33.5, y: -42}
+        - {x: 33.5, y: 41}
+        - {x: 28.5, y: 45}
+    - name: hydra_walk_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 216
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 43}
+        - {x: -36, y: 16}
+        - {x: -36, y: -43}
+        - {x: 30, y: -43}
+        - {x: 36, y: -42}
+        - {x: 36, y: 29}
+        - {x: 25, y: 43}
+    - name: hydra_walk_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 215
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 17}
+        - {x: 24.5, y: 17}
+        - {x: 26.5, y: 17}
+        - {x: 37.5, y: 21}
+        - {x: 29.5, y: 43}
+        - {x: -5.5, y: 43}
+        - {x: -38.5, y: 27}
+        - {x: -40.5, y: 22}
+        - {x: -40.5, y: -43}
+        - {x: 40.5, y: -43}
+        - {x: 40.5, y: 9}
+        - {x: 33.5, y: 16}
+    - name: hydra_walk_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 217
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 41.5}
+        - {x: -39, y: 1.5}
+        - {x: -39, y: -41.5}
+        - {x: 33, y: -41.5}
+        - {x: 39, y: -39.5}
+        - {x: 39, y: 41.5}
+    - name: hydra_walk_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 216
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 17}
+        - {x: 19.5, y: 16}
+        - {x: 20.5, y: 18}
+        - {x: 25.5, y: 17}
+        - {x: 27.5, y: 17}
+        - {x: 37.5, y: 22}
+        - {x: 28.5, y: 43}
+        - {x: -8.5, y: 43}
+        - {x: -31.5, y: 17}
+        - {x: -38.5, y: -2}
+        - {x: -38.5, y: -43}
+        - {x: 29.5, y: -43}
+        - {x: 38.5, y: -33}
+        - {x: 38.5, y: 11}
+        - {x: 29.5, y: 17}
+    - name: hydra_attack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 43}
+        - {x: -17.5, y: 43}
+        - {x: -31.5, y: 22}
+        - {x: -36.5, y: 2}
+        - {x: -36.5, y: -41}
+        - {x: -22.5, y: -43}
+        - {x: 25.5, y: -43}
+        - {x: 32.5, y: -37}
+        - {x: 36.5, y: -30}
+        - {x: 36.5, y: 34}
+    - name: hydra_attack_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 45.5}
+        - {x: -38.5, y: 36.5}
+        - {x: -43.5, y: 12.5}
+        - {x: -43.5, y: -45.5}
+        - {x: 16.5, y: -45.5}
+        - {x: 43.5, y: -35.5}
+        - {x: 43.5, y: 29.5}
+        - {x: 12.5, y: 45.5}
+    - name: hydra_attack_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 104
+        width: 125
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 9}
+        - {x: 62.5, y: 34}
+        - {x: 26.5, y: 53}
+        - {x: -62.5, y: 53}
+        - {x: -62.5, y: -53}
+        - {x: 56.5, y: -53}
+        - {x: 62.5, y: -33}
+        - {x: 62.5, y: -21}
+        - {x: 46.5, y: -17}
+    - name: hydra_attack_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 99
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 55.5}
+        - {x: -61.5, y: 29.5}
+        - {x: -61.5, y: 12.5}
+        - {x: -54.5, y: 2.5}
+        - {x: -61.5, y: -5.5}
+        - {x: -61.5, y: -55.5}
+        - {x: 61.5, y: -55.5}
+        - {x: 61.5, y: 30.5}
+        - {x: 47.5, y: 55.5}
+    - name: hydra_attack_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 119
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 40.5}
+        - {x: -50.5, y: 30.5}
+        - {x: -50.5, y: -35.5}
+        - {x: -47.5, y: -40.5}
+        - {x: 50.5, y: -40.5}
+        - {x: 50.5, y: 40.5}
+    - name: hydra_attack_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 125
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37}
+        - {x: -33, y: 27}
+        - {x: -27, y: 18}
+        - {x: -22, y: 18}
+        - {x: -43, y: -9}
+        - {x: -43, y: -37}
+        - {x: 30, y: -37}
+        - {x: 43, y: -34}
+        - {x: 43, y: 13}
+        - {x: 33, y: 37}
+    - name: hydra_attack_6
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 124
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 17}
+        - {x: 26.5, y: 17}
+        - {x: 33.5, y: 24}
+        - {x: 34.5, y: 27}
+        - {x: 10.5, y: 43}
+        - {x: -10.5, y: 43}
+        - {x: -14.5, y: 42}
+        - {x: -23.5, y: 17}
+        - {x: -35.5, y: -3}
+        - {x: -35.5, y: -43}
+        - {x: 33.5, y: -43}
+        - {x: 35.5, y: -40}
+        - {x: 35.5, y: 15}
+        - {x: 25.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

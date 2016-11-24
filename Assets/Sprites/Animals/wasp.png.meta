@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 7eae14e6d0562de4faac96443fd22b20
+timeCreated: 1451433093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wasp_die
+    21300002: wasp_1
+    21300004: wasp_2
+    21300006: wasp_3
+    21300008: wasp_4
+    21300010: wasp_39
+    21300012: wasp_40
+    21300014: wasp_walk_0
+    21300016: wasp_walk_1
+    21300018: wasp_walk_2
+    21300020: wasp_walk_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wasp_die
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 43}
+        - {x: -44, y: 43}
+        - {x: -44, y: -3}
+        - {x: -36, y: -23}
+        - {x: 8, y: -43}
+        - {x: 23, y: -43}
+        - {x: 44, y: -10}
+        - {x: 44, y: 38}
+    - name: wasp_walk_0
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 62
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 30.5}
+        - {x: -46, y: 29.5}
+        - {x: -46, y: -30.5}
+        - {x: 38, y: -30.5}
+        - {x: 46, y: -24.5}
+        - {x: 46, y: 30.5}
+    - name: wasp_walk_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 62
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -33, y: 15}
+        - {x: -46, y: -11}
+        - {x: -46, y: -29}
+        - {x: -42, y: -31}
+        - {x: 39, y: -31}
+        - {x: 46, y: -27}
+        - {x: 46, y: 20}
+        - {x: 15, y: 31}
+      - - {x: -36, y: 18}
+        - {x: -33, y: 19}
+        - {x: -33, y: 22}
+        - {x: -36, y: 23}
+        - {x: -38, y: 21}
+    - name: wasp_walk_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 62
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -31, y: 27}
+        - {x: -30, y: 17}
+        - {x: -26, y: 15}
+        - {x: -46, y: -9}
+        - {x: -46, y: -31}
+        - {x: 44, y: -31}
+        - {x: 46, y: -24}
+        - {x: 46, y: 25}
+        - {x: 19, y: 31}
+      - - {x: -36, y: 18}
+        - {x: -33, y: 19}
+        - {x: -33, y: 22}
+        - {x: -36, y: 23}
+        - {x: -38, y: 21}
+    - name: wasp_walk_3
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 62
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 30.5}
+        - {x: -39, y: 30.5}
+        - {x: -46, y: 20.5}
+        - {x: -46, y: -30.5}
+        - {x: 46, y: -30.5}
+        - {x: 46, y: 17.5}
+        - {x: 45, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
